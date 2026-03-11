@@ -1,5 +1,5 @@
-public class UC1{
+public class UC1-display-hello {
     public static void main(String[] args){
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
     }
 }
